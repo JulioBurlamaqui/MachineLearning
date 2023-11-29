@@ -1,2 +1,2 @@
-# UFRJ
-Non-extensive repository of my academic works
+# Introdução ao Aprendizado de Máquinas
+Non-extensive repository of Machine Learning course projects
